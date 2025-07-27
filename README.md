@@ -22,7 +22,7 @@ milk_tea
 bash
 Copy
 Edit
-git clone https://github.com/your-username/tea-vending-machine.git
+git https://github.com/Princesolanki138/Tea-Vending-Machine-opp-python-.git
 cd tea-vending-machine
 Or download as .zip and extract.
 
